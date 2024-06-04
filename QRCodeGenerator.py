@@ -10,3 +10,4 @@ qr.make(fit=True)
 img = qr.make_image(fill_color="green",back_color="white")
 img.save("newQR.png")
 
+#added comment
